@@ -158,7 +158,7 @@ h1 + p, p + p {
 
 .header {
   position: relative;
-  width: 100%;
+  width: auto;
   height: 40vh;
   background: url('fondo/hed.gif') no-repeat center center/cover;
   display: flex;
@@ -280,8 +280,8 @@ h1 + p, p + p {
 
 .footer {
   position: relative;
-  width: 100%;
-  height: 40vh;
+  width: auto;
+  height: 20vh;
   background: url('fondo/fot.gif') no-repeat center center/cover;
   display: flex;
   justify-content: center;
